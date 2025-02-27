@@ -13,3 +13,39 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Users\MADHU M
 
 !ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-02-14 22:48:22.599
 !MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2025-02-27 12:16:11.191 -----------------------------------------------
+eclipse.buildId=Version 1.17.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Users\MADHU MITHU\Desktop\Embedded\My_workspace\target
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-02-27 12:16:24.794
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-02-27 12:16:24.797
+!MESSAGE Log4j2 initialized with config file C:\Users\MADHU MITHU\Desktop\Embedded\My_workspace\target\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-02-27 12:16:34.507
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2025-02-27 12:24:45.775 -----------------------------------------------
+eclipse.buildId=Version 1.17.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-02-27 12:25:05.437
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-02-27 12:25:05.439
+!MESSAGE Log4j2 initialized with config file C:\Users\MADHU MITHU\Desktop\Embedded\My_workspace\target\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-02-27 12:25:14.096
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-02-27 12:32:06.790
+!MESSAGE Indexed '001HelloWorld' (3 sources, 53 headers) in 2 sec: 1,950 declarations; 2,835 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.042%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-02-27 12:44:33.573
+!MESSAGE Indexed '001HelloWorld' (3 sources, 53 headers) in 1.39 sec: 1,952 declarations; 2,845 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.042%)
